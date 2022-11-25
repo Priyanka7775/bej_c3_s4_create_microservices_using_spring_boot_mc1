@@ -1,5 +1,4 @@
 package com.example.UserTrackservices.domain;
-
 import org.springframework.data.annotation.Id;
 
 public class Track {
